@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**Leundai/Leundai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" alt="Github" src="https://giffiles.alphacoders.com/163/163818.gif" />
 
-Here are some ideas to get you started:
+I am a CS + Linguistics student at the University of Illinois at Urbana-Champaign. I am currently focusing in full-stack development and NLP!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m a CS + Linguistics student at the University of Illinois at Urbana-Champaign.
+- 🤔 I'm currently taking on full-projects with a focus in backend using Flask, Django, MongoDB, and more!
+- 🙋‍♂️ I'm open to opportunities whether it is a project or an internship!
+- 📫 How to reach me: [Email](lgalin6@illinois.edu) - [Linkedin](https://www.linkedin.com/in/leonardo-galindo-frias/)
+
+⭐️ From [hazemessam](https://github.com/hazemessam)
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
