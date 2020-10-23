@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-<img width="35%" align="right" alt="Github" src="https://giffiles.alphacoders.com/163/163818.gif" />
+<img width="35%" align="right" alt="Github" src="https://i.gifer.com/3BBS.gif" />
 
 I am a CS + Linguistics student at the University of Illinois at Urbana-Champaign. I am currently focusing on full-stack development and NLP!
 
