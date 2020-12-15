@@ -1,4 +1,13 @@
-import { Flex, Text, Box, Image, Link, Button, Stack, Divider } from "@chakra-ui/react";
+import {
+  Flex,
+  Text,
+  Box,
+  Image,
+  Link,
+  Button,
+  Stack,
+  Divider,
+} from "@chakra-ui/react";
 import profilePicture from "../resources/me.jpg";
 import resume from "../resources/ResumeFall2020.pdf";
 import useWindowDimensions from "../hooks/useWindowDimensions";
@@ -54,10 +63,14 @@ function Home() {
               Projects
             </Button>
           </Stack> */}
-          <Divider/>
+          <Divider />
         </Box>
       </Flex>
-      <Text width="calc(20px + 40vmin)" textAlign="center" fontSize="calc(10px + 1vmin)">
+      <Text
+        width="calc(20px + 40vmin)"
+        textAlign="center"
+        fontSize="calc(10px + 1vmin)"
+      >
         Hello! I'm Leo for short. I'm currently in my second year at UIUC and I
         am software developer at Hack4Impact @ UIUC. I will be interning at
         Facebook for Summer 2021 and participating in a lot of hackathons

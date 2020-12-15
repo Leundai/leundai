@@ -8,12 +8,8 @@ function App() {
     <div>
       <Tabs align="center" defaultIndex={0}>
         <TabList>
-          <Tab>
-            Home
-          </Tab>
-          <Tab>
-            Projects
-          </Tab>
+          <Tab>Home</Tab>
+          <Tab>Projects</Tab>
         </TabList>
         <TabPanels>
           <TabPanel>
