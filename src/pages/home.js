@@ -33,12 +33,13 @@ function Home() {
           borderRadius="full"
         />
         <Box flexDir="column" fontSize="calc(10px + 1.5vmin)">
-          <Text fontSize="calc(10px + 3vmin)">Leonardo Galindo-Frias</Text>
+          <Text fontSize="calc(10px + 3vmin)" fontWeight="bold">Leonardo Galindo-Frias</Text>
           <Stack
             direction="row"
             spacing={8}
             justifyContent="center"
             textColor="blue.500"
+            fontWeight="bold"
           >
             <Link isExternal href="https://github.com/Leundai">
               Projects
@@ -58,6 +59,7 @@ function Home() {
         maxWidth="460px"
         textAlign="center"
         fontSize="md"
+        marginTop="8px"
       >
         I'm Leo! I'm a CS + Linguistics student at the University of Illinois at Urbana-Champaign. I am heavily focused in open-source development and applications that benefit communities in need.
         <br/>
