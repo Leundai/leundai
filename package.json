@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://leundai.github.io/Leundai",
+  "homepage": "http://leonardogalindo.me",
   "dependencies": {
     "@chakra-ui/react": "^1.0.1",
     "@emotion/react": "^11.1.1",
