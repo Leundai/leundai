@@ -1,5 +1,5 @@
 # 👋 Hello People!
-Welcome to my Github. If you want to know more about me checkout my [website](google.com).
+Welcome to my Github. If you want to know more about me checkout [leonardogalindo.me](leonardogalindo.me)
 
 Feel free to reach out if you want to work together or have suggestions.
 
