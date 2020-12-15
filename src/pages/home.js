@@ -4,7 +4,6 @@ import {
   Box,
   Image,
   Link,
-  Button,
   Stack,
   Divider,
 } from "@chakra-ui/react";
@@ -13,7 +12,7 @@ import resume from "../resources/ResumeFall2020.pdf";
 import useWindowDimensions from "../hooks/useWindowDimensions";
 
 function Home() {
-  const { height, width } = useWindowDimensions();
+  const { width } = useWindowDimensions();
   return (
     <Flex
       color="white"
@@ -22,6 +21,9 @@ function Home() {
       textAlign="center"
       textColor="black"
       flexDir="column"
+      height="100vh"
+      fontFamily="'JetBrains Mono', monospace;"
+      margin="0 6px"
     >
       <Flex flexDir="column" alignItems="center">
         <Image
@@ -32,15 +34,14 @@ function Home() {
         />
         <Box flexDir="column" fontSize="calc(10px + 1.5vmin)">
           <Text fontSize="calc(10px + 3vmin)">Leonardo Galindo-Frias</Text>
-          <Text>CS + Linguistics Student @ UIUC</Text>
           <Stack
             direction="row"
-            spacing={2}
+            spacing={8}
             justifyContent="center"
             textColor="blue.500"
           >
             <Link isExternal href="https://github.com/Leundai">
-              Github
+              Projects
             </Link>
             <Link href={resume}>Resume</Link>
             <Link
@@ -50,32 +51,23 @@ function Home() {
               Linkedin
             </Link>
           </Stack>
-          {/* <Stack
-            direction="row"
-            spacing={2}
-            justifyContent="center"
-            align="center"
-          >
-            <Button size={width < 768 ? "xs" : "md"} colorScheme="blue">
-              About
-            </Button>
-            <Button size={width < 768 ? "xs" : "md"} colorScheme="blue">
-              Projects
-            </Button>
-          </Stack> */}
           <Divider />
         </Box>
       </Flex>
       <Text
-        width="calc(20px + 40vmin)"
+        maxWidth="460px"
         textAlign="center"
-        fontSize="calc(10px + 1vmin)"
+        fontSize="md"
       >
-        Hello! I'm Leo for short. I'm currently in my second year at UIUC and I
-        am software developer at Hack4Impact @ UIUC. I will be interning at
-        Facebook for Summer 2021 and participating in a lot of hackathons
-        through this coming year. Feel free to reach out to me through Linkedin
-        or email!
+        I'm Leo! I'm a CS + Linguistics student at the University of Illinois at Urbana-Champaign. I am heavily focused in open-source development and applications that benefit communities in need.
+        <br/>
+        <br/>
+        I'll be interning at Facebook for Summer 2021
+        <br/>
+        I'm a software developer at <Link color="blue.500" isExternal href="https://uiuc.hack4impact.org/">Hack4Impact</Link>
+        <br/>
+        I was part of the <Link color="blue.500" isExternal href="https://fellowship.mlh.io/programs/externship">MLH Externship Track </Link>
+        and <Link color="blue.500" isExternal href="https://sail.cs.illinois.edu/">SAIL@UIUC</Link>
       </Text>
     </Flex>
   );
