@@ -3,4 +3,4 @@ Welcome to my Github. If you want to know more about me checkout [leonardogalind
 
 Feel free to reach out if you want to work together or have suggestions.
 
-Enjoy your visit!!
+Enjoy your visit!
