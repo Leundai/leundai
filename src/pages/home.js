@@ -7,9 +7,9 @@ import useWindowDimensions from "../hooks/useWindowDimensions";
 
 function Home() {
   const { width } = useWindowDimensions();
+  ReactGA.initialize("UA-186708111-1");
 
   useEffect(() => {
-    ReactGA.initialize("UA-186708111-1");
     ReactGA.pageview(window.location.pathname + window.location.search);
   }, []);
 
