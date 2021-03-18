@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ebe7018a.chunk.css",
-    "main.js": "/static/js/main.6b68c2ed.chunk.js",
-    "main.js.map": "/static/js/main.6b68c2ed.chunk.js.map",
+    "main.js": "/static/js/main.98c64cc5.chunk.js",
+    "main.js.map": "/static/js/main.98c64cc5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d5da4178.js",
     "runtime-main.js.map": "/static/js/runtime-main.d5da4178.js.map",
     "static/js/2.d44366de.chunk.js": "/static/js/2.d44366de.chunk.js",
@@ -13,12 +13,12 @@
     "static/css/main.ebe7018a.chunk.css.map": "/static/css/main.ebe7018a.chunk.css.map",
     "static/js/2.d44366de.chunk.js.LICENSE.txt": "/static/js/2.d44366de.chunk.js.LICENSE.txt",
     "static/media/ResumeFall2020.3b67b27a.pdf": "/static/media/ResumeFall2020.3b67b27a.pdf",
-    "static/media/me.59dc1184.jpg": "/static/media/me.59dc1184.jpg"
+    "static/media/me.e7262167.jpg": "/static/media/me.e7262167.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5da4178.js",
     "static/js/2.d44366de.chunk.js",
     "static/css/main.ebe7018a.chunk.css",
-    "static/js/main.6b68c2ed.chunk.js"
+    "static/js/main.98c64cc5.chunk.js"
   ]
 }
